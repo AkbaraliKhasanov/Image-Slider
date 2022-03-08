@@ -9,15 +9,17 @@ Android Modern Image Slider using Kotlin, ViewPager2 and KenBurnsView
 { dependencies {
     compile 'com.flaviofaria:kenburnsview:1.0.7'
 } }
-<a href="http://example.com/">http://example.com/</a>
-[id]: url/to/image  "Optional title attribute"
-![Alt text](/path/to/img.jpg)
+<em>single asterisks</em>
 
-![Alt text](/path/to/img.jpg "Optional title")
-<p><code>&amp;#8212;</code> is the decimal-encoded
-equivalent of <code>&amp;mdash;</code>.</p>
-`&#8212;` is the decimal-encoded equivalent of `&mdash;`.
-<p>Please don't use any <code>&lt;blink&gt;</code> tags.</p>
-<p>A single backtick in a code span: <code>`</code></p>
+<em>single underscores</em>
 
-<p>A backtick-delimited string in a code span: <code>`foo`</code></p>
+<strong>double asterisks</strong>
+
+<strong>double underscores</strong>
+*single asterisks*
+
+_single underscores_
+
+**double asterisks**
+
+__double underscores__
