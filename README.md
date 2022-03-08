@@ -6,6 +6,6 @@ Android Modern Image Slider using Kotlin, ViewPager2 and KenBurnsView
 ## Gradle integration
 
 *   Bird If you're using Gradle, you can declare this library as a dependency:
- &amp; dependencies {
+\ dependencies {
     compile 'com.flaviofaria:kenburnsview:1.0.7'
 }
