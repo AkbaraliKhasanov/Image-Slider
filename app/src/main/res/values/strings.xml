@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Image Slider</string>
+    <string name="explore">Explore</string>
+    <string name="search">Search</string>
+    <string name="favorite">Favorite</string>
+    <string name="hello_akbarali">Hello,Akbarali</string>
+    <string name="where_are_we">Where are we</string>
+    <string name="going_today">going today?</string>
+</resources>
