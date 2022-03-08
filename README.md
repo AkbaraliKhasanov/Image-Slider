@@ -9,3 +9,4 @@ Android Modern Image Slider using Kotlin, ViewPager2 and KenBurnsView
 { dependencies {
     compile 'com.flaviofaria:kenburnsview:1.0.7'
 } }
+<a href="http://example.com/">http://example.com/</a>
