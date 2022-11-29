@@ -10,3 +10,6 @@ Android Modern Image Slider using Kotlin, ViewPager2 and KenBurnsView
     compile 'com.flaviofaria:kenburnsview:1.0.7'
 }
 </code></pre>
+## Donation
+If this project help you reduce time to develop, you can give me a cup of coffee :)
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="akbaralixaY" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
